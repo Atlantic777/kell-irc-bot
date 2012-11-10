@@ -218,7 +218,7 @@ def handlePubMessage (connection, event ):
 			
 		
  
-# Create the IRC object
+# Kreiraj IRC objekat
 irc = irclib.IRC()
 
 
