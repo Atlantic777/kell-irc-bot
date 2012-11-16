@@ -232,7 +232,7 @@ irc.add_global_handler ( 'pubmsg', handlePubMessage )
 server = irc.server()
 server.connect ( network, port, nick, ircname = name )
 server.join ( channel )
-server.privmsg('NickServ','identify lam3r')
+server.privmsg('NickServ','identify password')
 
 # Poruka i kanalu i Vama
 server.privmsg ( channel, '~Ja sam IRC bot, namenjem patroliranju kanalom linux.rs organizacije . Kreator bota je sphreaz . ( http://sphreaz.blogspot.com) . Pozdrav' )
