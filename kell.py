@@ -8,10 +8,10 @@ from time import strftime
 print """
 ####################################################
 # Python IRC bot named Kell		  
-# By sphreaz			 			  
-# MSN : sphreaz@gmail.com 
-# Web : http://devnull.us.to  http://linux.rs
-# Greetz : Atlantic777 , and mindfreaks.org staff
+# By phezord			 			  
+# email : sphreaz@gmail.com / strahinja@linux.rs
+# Web : http://nix2.me  http://linux.rs
+# Greetz : lugoNS , and mindfreaks.org staff
 ##################################################### """
 
 
